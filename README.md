@@ -1,4 +1,4 @@
-# SkillSync (MERN Portfolio Project)
+# SkillSync 
 
 SkillSync is a full-stack skill-exchange platform where people trade skills instead of money. Users create profiles, manage teach/learn skills, find matched partners, run exchanges with chat, and earn gamified points.
 
